@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551780337777.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BE2A0C02",
+    "lastKnownWriteTime" : 1543594484,
+    "last_content_update" : 1543594484,
+    "path" : "~/Documents/R/PACKAGES/supply/R/characterconstants.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "6,89",
+        "scrollLine" : "1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551638692366.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AE5EA6E",
+    "lastKnownWriteTime" : 1551780372,
+    "last_content_update" : 1551780372196,
+    "path" : "~/Documents/R/PACKAGES/meowsic/R/constants.R",
+    "project_path" : "R/constants.R",
+    "properties" : {
+        "cursorPosition" : "12,26",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

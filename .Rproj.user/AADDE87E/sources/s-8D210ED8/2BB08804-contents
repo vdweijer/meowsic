@@ -1,0 +1,1 @@
+whichcat=function(catid){names(cats[cats==catid])}
