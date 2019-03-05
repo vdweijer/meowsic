@@ -2,18 +2,17 @@
 \alias{desktop}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-%%  ~~function to do ... ~~
+DESKTOP
 }
 \description{
 Make the desktop the current working directory.
 }
 \usage{
-desktop(x)
+desktop()
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
-  \item{x}{
-%%     ~~Describe \code{x} here~~
+  \item{}{No arguments
 }
 }
 \details{
@@ -43,12 +42,7 @@ Joost van de Weijer
 }
 \examples{
 desktop() # this is the only way this function can be used.
-## The function is currently defined as
-function (x)
-{
-  }
-}
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.
-\keyword{ ~kwd1 }% use one of  RShowDoc("KEYWORDS")
-\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line
+%% \keyword{ ~kwd1 }% use one of  RShowDoc("KEYWORDS")
+%% \keyword{ ~kwd2 }% __ONLY ONE__ keyword per line
