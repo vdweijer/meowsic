@@ -30,7 +30,7 @@ desktop(x)
 %% ~put references to the literature/web site here ~
 }
 \author{
-%%  ~~who you are~~
+Joost van de Weijer
 }
 \note{
 %%  ~~further notes~~
