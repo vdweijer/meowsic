@@ -42,6 +42,7 @@ Joost van de Weijer
 }
 \examples{
 desktop() # this is the only way this function can be used.
+}
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.
 %% \keyword{ ~kwd1 }% use one of  RShowDoc("KEYWORDS")

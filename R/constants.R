@@ -11,3 +11,5 @@ cats=structure(paste("c",sprintf("%02.0f",1:70),sep=""),
 f0steps=paste("f0",1:100,sep="_")
 
 trafficlights=structure(c("green3","orange","orangered2"),names=c("green","orange","red")) #
+
+kittens=structure(paste("c",12:20,sep=""),names=c("Monk","Runten","Sherlock","Watson","Mycroft","Moriarty","Mrs Hudson","Irene","Munnen"))
