@@ -5,7 +5,8 @@
 meow wide: main datafile in wide format (one row per vocalisation).
 }
 \description{
-The dataset of the vocalisations in wide format.
+The dataset of the vocalisations in wide format. The file was updated to also
+include the F0 steps on 20/12/21.
 }
 \usage{data("meowwide")}
 \format{
